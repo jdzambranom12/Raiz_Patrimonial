@@ -1,0 +1,66 @@
+:root {
+  /* RAÍZ Official Chromatic Palette */
+  --color-crema: #FFD296;
+  --color-naranja: #F1A437;
+  --color-rojo: #DB3616;
+  --color-azul: #4081D1;
+  --color-cafe: #5E2806;
+  
+  /* Derived & Editorial Hues */
+  --color-cafe-dark: #381604;
+  --color-cafe-deep: #250E02;
+  --color-cafe-soft: #7C4018;
+  --color-naranja-soft: #F9CA80;
+  --color-crema-light: #FFF0DB;
+  --color-crema-subtle: #FAF2E6;
+  --color-azul-soft: #EBF3FC;
+  --color-rojo-soft: #FDECE9;
+  
+  /* Editorial Canvas & Backgrounds */
+  --bg-primary: #FAF6F0;
+  --bg-secondary: #F3ECE1;
+  --bg-tertiary: #E8DCCF;
+  --bg-card: #FFFFFF;
+  --bg-dark: #381604;
+  --bg-dark-card: #4A1F05;
+  
+  /* Text & Foreground */
+  --text-main: #3E1B05;
+  --text-heading: #2B1102;
+  --text-muted: #725746;
+  --text-dim: #988070;
+  --text-light: #FFFDF9;
+  --text-light-muted: #DFCEBE;
+  
+  /* Borders & Dividers */
+  --border-light: rgba(94, 40, 6, 0.1);
+  --border-medium: rgba(94, 40, 6, 0.18);
+  --border-strong: rgba(94, 40, 6, 0.35);
+  --border-warm: rgba(241, 164, 55, 0.3);
+  --border-dark: rgba(255, 210, 150, 0.15);
+  
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(94, 40, 6, 0.05);
+  --shadow-md: 0 8px 24px rgba(94, 40, 6, 0.08);
+  --shadow-lg: 0 16px 40px rgba(94, 40, 6, 0.12);
+  --shadow-xl: 0 24px 60px rgba(94, 40, 6, 0.16);
+  --shadow-inner: inset 0 2px 4px rgba(94, 40, 6, 0.06);
+
+  /* Typography */
+  --font-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  
+  /* Layout Spacing */
+  --container-max: 1240px;
+  --container-wide: 1360px;
+  --header-height: 80px;
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-pill: 9999px;
+  
+  /* Transitions */
+  --transition-fast: 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-base: 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-slow: 0.45s cubic-bezier(0.16, 1, 0.3, 1);
+}

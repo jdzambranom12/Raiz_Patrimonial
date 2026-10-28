@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 70" width="60" height="70" fill="none" role="img" aria-label="Isotipo RAÍZ">
+  <g id="isotype-r">
+    <!-- Vertical Column Blocks -->
+    <rect x="2" y="3" width="12" height="64" fill="#5E2806" rx="1"/>
+    
+    <!-- Woven Horizontal Stripes (Trama) -->
+    <rect x="14" y="11" width="28" height="10" fill="#5E2806"/>
+    <rect x="14" y="30" width="28" height="10" fill="#4081D1"/>
+    
+    <!-- Top Loop Right Vertical -->
+    <rect x="42" y="11" width="12" height="29" fill="#F1A437" rx="1"/>
+    
+    <!-- Weave Cross Blocks -->
+    <rect x="2" y="17" width="12" height="10" fill="#F1A437"/>
+    <rect x="2" y="37" width="12" height="10" fill="#FFD296"/>
+    
+    <!-- Diagonal Leg (Urdimbre angular) -->
+    <polygon points="28,40 40,40 56,67 44,67" fill="#5E2806"/>
+    <polygon points="16,40 28,40 44,67 32,67" fill="#4081D1"/>
+    
+    <!-- Accent weave points -->
+    <rect x="22" y="11" width="8" height="10" fill="#FFD296"/>
+    <rect x="22" y="30" width="8" height="10" fill="#F1A437"/>
+  </g>
+</svg>

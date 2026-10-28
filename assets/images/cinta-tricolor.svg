@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="100%" height="100%" preserveAspectRatio="none" fill="none">
+  <!-- Dynamic, elegant tricolor ribbon curve -->
+  <path d="M -20,85 C 80,10 200,110 420,30 L 420,50 C 200,130 80,30 -20,105 Z" fill="#F1A437" fill-opacity="0.9"/>
+  <path d="M -20,95 C 80,20 200,120 420,40 L 420,60 C 200,140 80,40 -20,115 Z" fill="#4081D1" fill-opacity="0.95"/>
+  <path d="M -20,105 C 80,30 200,130 420,50 L 420,70 C 200,150 80,50 -20,125 Z" fill="#DB3616" fill-opacity="0.95"/>
+</svg>
