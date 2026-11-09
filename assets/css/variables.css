@@ -6,45 +6,51 @@
   --color-azul: #4081D1;
   --color-cafe: #5E2806;
   
-  /* Derived & Editorial Hues */
+  /* Vibrant & Editorial Hues */
+  --color-naranja-vibrant: #FA9A1B;
+  --color-naranja-glow: rgba(241, 164, 55, 0.28);
+  --color-rojo-vibrant: #E63310;
+  --color-rojo-glow: rgba(219, 54, 22, 0.22);
+  --color-azul-vibrant: #317DD6;
+  --color-azul-glow: rgba(64, 129, 209, 0.22);
   --color-cafe-dark: #381604;
-  --color-cafe-deep: #250E02;
-  --color-cafe-soft: #7C4018;
-  --color-naranja-soft: #F9CA80;
-  --color-crema-light: #FFF0DB;
-  --color-crema-subtle: #FAF2E6;
-  --color-azul-soft: #EBF3FC;
-  --color-rojo-soft: #FDECE9;
+  --color-cafe-deep: #220C02;
+  --color-crema-light: #FFF4E5;
+  --color-crema-card: #FCF8F2;
+  --color-crema-glow: rgba(255, 210, 150, 0.4);
   
-  /* Editorial Canvas & Backgrounds */
-  --bg-primary: #FAF6F0;
-  --bg-secondary: #F3ECE1;
-  --bg-tertiary: #E8DCCF;
+  /* Editorial Canvas & Backgrounds with Warm Vibrancy */
+  --bg-primary: #FAF5EE;
+  --bg-secondary: #F4ECE0;
+  --bg-tertiary: #EBDDCF;
   --bg-card: #FFFFFF;
-  --bg-dark: #381604;
-  --bg-dark-card: #4A1F05;
+  --bg-dark: #2B1103;
+  --bg-dark-card: #3D1905;
   
   /* Text & Foreground */
-  --text-main: #3E1B05;
-  --text-heading: #2B1102;
-  --text-muted: #725746;
-  --text-dim: #988070;
+  --text-main: #3C1A05;
+  --text-heading: #260E02;
+  --text-muted: #6B4E3C;
+  --text-dim: #947563;
   --text-light: #FFFDF9;
-  --text-light-muted: #DFCEBE;
+  --text-light-muted: #E6D5C5;
   
   /* Borders & Dividers */
-  --border-light: rgba(94, 40, 6, 0.1);
-  --border-medium: rgba(94, 40, 6, 0.18);
-  --border-strong: rgba(94, 40, 6, 0.35);
-  --border-warm: rgba(241, 164, 55, 0.3);
-  --border-dark: rgba(255, 210, 150, 0.15);
+  --border-light: rgba(94, 40, 6, 0.09);
+  --border-medium: rgba(94, 40, 6, 0.16);
+  --border-strong: rgba(94, 40, 6, 0.32);
+  --border-warm: rgba(241, 164, 55, 0.35);
+  --border-vibrant: rgba(219, 54, 22, 0.3);
+  --border-dark: rgba(255, 210, 150, 0.18);
   
-  /* Shadows */
-  --shadow-sm: 0 2px 8px rgba(94, 40, 6, 0.05);
-  --shadow-md: 0 8px 24px rgba(94, 40, 6, 0.08);
-  --shadow-lg: 0 16px 40px rgba(94, 40, 6, 0.12);
-  --shadow-xl: 0 24px 60px rgba(94, 40, 6, 0.16);
-  --shadow-inner: inset 0 2px 4px rgba(94, 40, 6, 0.06);
+  /* Shadows & Ambient Glows */
+  --shadow-sm: 0 2px 10px rgba(94, 40, 6, 0.06);
+  --shadow-md: 0 8px 24px rgba(94, 40, 6, 0.09);
+  --shadow-lg: 0 16px 42px rgba(94, 40, 6, 0.13);
+  --shadow-xl: 0 24px 60px rgba(94, 40, 6, 0.18);
+  --shadow-warm-glow: 0 12px 36px rgba(241, 164, 55, 0.22);
+  --shadow-red-glow: 0 12px 36px rgba(219, 54, 22, 0.2);
+  --shadow-blue-glow: 0 12px 36px rgba(64, 129, 209, 0.2);
 
   /* Typography */
   --font-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
@@ -53,10 +59,10 @@
   /* Layout Spacing */
   --container-max: 1240px;
   --container-wide: 1360px;
-  --header-height: 80px;
-  --radius-sm: 6px;
-  --radius-md: 12px;
-  --radius-lg: 20px;
+  --header-height: 82px;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
   --radius-pill: 9999px;
   
   /* Transitions */
